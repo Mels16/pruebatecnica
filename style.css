@@ -1,0 +1,28 @@
+
+.Class{
+    border: 5px solid;
+    width: 250px;
+    height: auto;
+    display: grid;
+    grid-gap: 7px;
+}
+
+.task{
+    text-align: start;
+    border: 5px solid#d9d56d;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    background-color: #d9d56d;
+}
+
+.IconHover:hover{
+    width: 15px;
+    height:  0px;
+    display: 0;
+
+}
+
+.Cuadro{
+    display: grid;
+}
